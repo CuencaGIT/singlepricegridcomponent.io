@@ -39,12 +39,12 @@ main {
   font-size: 1.1em;
   font-weight: 400;
 }
-.subscription h5 {
+.subscription h3 {
   font-size: 2em;
   font-weight: 700;
   margin: 0em;
 }
-.subscription h5 span {
+.subscription h3 span {
   font-size: 0.5em;
   font-weight: 400;
   opacity: 50%;
